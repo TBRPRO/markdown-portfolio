@@ -1,3 +1,3 @@
-[Google][Google.fr]
+[Google][https://www.google.fr/]
 
 
